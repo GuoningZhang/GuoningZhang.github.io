@@ -21,4 +21,4 @@ author_profile: true
 ## Conference Papers
 * <b>IPLC: Iterative Pseudo Label Correction Guided by SAM for Source-Free Domain Adaptation in Medical Image Segmentation</b> <br> 
   <b>Guoning Zhang</b>, Xiaoran Qi, Bo Yan, Guotai Wang<br>
-  <b>MICCAI (Early Accept), 2024 </b>.<br>
+  <b>MICCAI (Early Accept), 2024</b>.<br>
