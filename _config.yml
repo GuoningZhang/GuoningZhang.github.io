@@ -14,7 +14,7 @@ name                     : &name "Guoning Zhang"
 description              : &description "A Master student at UESTC"
 url                      : https://gnzhang01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gnzhang01.github.io"
+repository               : "GuoningZhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
