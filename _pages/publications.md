@@ -16,7 +16,7 @@ author_profile: true
   * <b>Cortical atrophy in early-stage patients with anti-NMDA receptor encephalitis: a machine-learning MRI study with various feature extraction</b> <br> 
     Sisi Shen, Ran Wei, Yu Gao, Xinyuan Yang, <b>Guoning Zhang</b>, Bo Yan, Zhuoling Xiao, Jinmei Li <br> 
     <b>Cerebral Cortex, 2024</b>.<br>
-    [[paper](https://doi.org/10.1093/cercor/bhad499)][[pdf]](../files/Cerebral Cortex.pdf)
+    [[paper](https://academic.oup.com/cercor/article-abstract/34/2/bhad499/7512631)][[pdf]](../files/Cerebral Cortex.pdf)
 
 ## Conference Papers
 * <b>IPLC: Iterative Pseudo Label Correction Guided by SAM for Source-Free Domain Adaptation in Medical Image Segmentation</b> <br> 
