@@ -24,4 +24,4 @@ author_profile: true
   <b>MICCAI (Early Accept), 2024</b>.<br>
 * <b>Unsupervised Domain Adaptation for Abdominal Organ Segmentation Using Pseudo Labels and Organ Attention CycleGAN</b> <br> 
   Jianghao Wu, <b>Guoning Zhang</b>, Xiaoran Qi, Huamin Wang, Xinya Liu, Guotai Wang <br> 
-  <b>Submitted to International Conference on Medical Image Computing and Computer-Assisted Intervention FLARE Challenge (Under Review), 2024</b>.<br>
+  <b>Submitted to MICCAI FLARE Challenge (Under Review), 2024</b>.<br>
